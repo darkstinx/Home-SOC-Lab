@@ -44,7 +44,7 @@ Laboratorio de seguridad personal montado en VirtualBox que simula un entorno SO
 ![Agente activo](screenshots/agente_activo.png)
 
 ### Dashboard — Threat Hunting con eventos reales
-![Dashboard Wazuh](screenshots/dashboard_wazuh.png)
+![Dashboard Wazuh](screenshots/simulacion_de_ataques.png)
 
 ### IPs del entorno
 | Máquina | IP |
