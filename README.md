@@ -97,7 +97,7 @@ Durante la instalación surgieron varios problemas reales. Los documento aquí p
 
 ### 🔄 Fase 2 — En desarrollo
 - [ ] Integración TheHive con Wazuh via webhook
-- [ ] Creación automática de casos para alertas nivel 12+
+- [ ] Creación automática de casos
 - [ ] Dashboard personalizado en Kibana
 - [ ] Reglas personalizadas en `local_rules.xml`
 
